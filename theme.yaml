@@ -1,0 +1,17 @@
+# theme.yaml configuration file
+
+name: Meilisearch Indexer
+license: GPLv3
+licenselink: https://github.com/platformsh/hugo-meilisearch/blob/master/LICENSE
+description: Hugo theme component to create MeiliSearch indexes
+homepage:  https://github.com/platformsh/hugo-meilisearch
+tags:
+  - component
+  - search
+features:
+  - create a search index
+min_version: 0.40.0
+
+author:
+  name: Chad Carlson, Nick Andregg, Ori Pekelman
+  homepage: https://platform.sh
